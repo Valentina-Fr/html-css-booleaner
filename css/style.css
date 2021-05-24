@@ -25,3 +25,21 @@
     margin-bottom: 20px;
 }
 
+/* Main */
+
+.highlight {
+    background-color: yellow;
+}
+
+thead {
+    background-color:rgb(29, 186, 238);
+    color: white;
+}
+
+td {
+    width: 33%;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
