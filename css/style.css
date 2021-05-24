@@ -43,3 +43,23 @@ td {
 .lightblue {
     background-color: lightblue;
 }
+
+/* Footer */
+
+.recommended {
+    width: 350px;
+    height: 250px;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.monitor {
+    background: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+.screen {
+    background: url(../img/graph.jpg);
+    background-size: cover;
+}
