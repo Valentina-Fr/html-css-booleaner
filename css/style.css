@@ -1,0 +1,27 @@
+/* Header */
+.logo {
+    height: 180px;
+    background-color:  rgb(29, 186, 238);
+    background-image: url(../img/logo.svg), url(../img/pattern.png);
+    background-repeat: no-repeat, repeat;
+    background-position: left bottom, auto;
+    background-size: 300px 250px, auto;
+}
+
+.grey{
+    color: grey;
+    font-weight: bold;
+}
+
+#bluefont {
+    color: rgb(29, 186, 238);
+}
+
+.small {
+    font-size: 12px;
+}
+
+.date {
+    margin-bottom: 20px;
+}
+
