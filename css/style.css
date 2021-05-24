@@ -34,6 +34,7 @@
 thead {
     background-color:rgb(29, 186, 238);
     color: white;
+    text-align: left;
 }
 
 td {
